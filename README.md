@@ -17,3 +17,7 @@ For our CSS, we will use Tailwind-CSS, a utility class for styling without writi
 ## Backend
 
 For our Backend, we will use Solidity using Hardhat, which allows us to run Solidity locally.
+
+## Final Result
+
+You can view the deployed website at [https://kryptfinance.com/](https://kryptfinance.com/)
